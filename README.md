@@ -1,2 +1,2 @@
-# PID
-Design and simulate a PID controller for a robotic arm to achieve precise positioning.
+This project simulates the dynamics of a robotic arm using Python. A PID controller is implemented to regulate the arm's angular position, ensuring stability and precision in achieving a predefined target angle.
+The project allows users to define arm parameters (mass, length, damping) and tune the PID gains (Kp, Ki, Kd) for optimal performance. The deliverables include visualizations of the arm's angular position over time, a detailed analysis of PID tuning, and the project's code repository, demonstrating real-time control capabilities.
